@@ -2,4 +2,4 @@
 
 ## Laravel com Octane
 
-Teste de performance Laravel Octane com Swoole
+Teste de performance Laravel Octane com Swoole, para estudos.
